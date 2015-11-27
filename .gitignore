@@ -1,0 +1,9 @@
+/.settings/
+.buildpath
+.project
+composer.json
+composer.lock
+!/app/logs/.gitkeep
+/app/config/config.php
+/vendor/
+!/app/cache/.gitkeep
